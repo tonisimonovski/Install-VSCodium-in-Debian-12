@@ -26,4 +26,4 @@ sudo apt install codium
 
  sudo apt autoremove
 
- printf "\e[1;32mYou can now reboot! Thanks you.\e[0m\n"
+printf "\e[1;32mYou can now start the program vie cli command <codium>, or via start menu! Thanks you.\e[0m\n"
