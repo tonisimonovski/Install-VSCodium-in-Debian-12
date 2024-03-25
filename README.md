@@ -8,4 +8,4 @@
 
 - ./install_codium.sh
 
-- sudo m -r ~/Downloads/vscodium
+- sudo rm -r ~/Downloads/vscodium
