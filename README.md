@@ -1,6 +1,6 @@
 Installing in terminal
 
-git clone https://github.com/tonisimonovski/Install-VSCodium-in-Debian-12 ~/Downloads/vscodium
+git clone https://github.com/tonisimonovski/Install-VSCodium-in-Bookworm ~/Downloads/vscodium
 
 cd ~/Downloads/vscodium
 
