@@ -5,3 +5,5 @@
 - cd ~/Downloads/vscodium
 
 - chmod +x install_codium.sh
+
+- ./install_codium.sh
